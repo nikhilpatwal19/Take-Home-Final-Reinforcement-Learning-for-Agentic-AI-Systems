@@ -1,0 +1,685 @@
+{
+  "fast_0": {
+    "student_id": "fast_0",
+    "classification": "fast_learner",
+    "features": {
+      "accuracy": 0.84,
+      "skill_velocity": 0.00942,
+      "consistency": 0.837,
+      "plateau_detected": false,
+      "plateau_ratio": 0.984,
+      "hard_accuracy": 0.5,
+      "final_skill": 0.7324,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Fast learner \u2014 can handle accelerated difficulty progression",
+      "High accuracy on easy content \u2014 increase challenge level"
+    ]
+  },
+  "fast_1": {
+    "student_id": "fast_1",
+    "classification": "fast_learner",
+    "features": {
+      "accuracy": 0.78,
+      "skill_velocity": 0.0088,
+      "consistency": 0.787,
+      "plateau_detected": false,
+      "plateau_ratio": 0.942,
+      "hard_accuracy": 0.0,
+      "final_skill": 0.7013,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Fast learner \u2014 can handle accelerated difficulty progression"
+    ]
+  },
+  "fast_2": {
+    "student_id": "fast_2",
+    "classification": "fast_learner",
+    "features": {
+      "accuracy": 0.7,
+      "skill_velocity": 0.00759,
+      "consistency": 0.796,
+      "plateau_detected": false,
+      "plateau_ratio": 0.886,
+      "hard_accuracy": 0.0,
+      "final_skill": 0.6408,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Fast learner \u2014 can handle accelerated difficulty progression"
+    ]
+  },
+  "fast_3": {
+    "student_id": "fast_3",
+    "classification": "fast_learner",
+    "features": {
+      "accuracy": 0.68,
+      "skill_velocity": 0.00788,
+      "consistency": 0.84,
+      "plateau_detected": false,
+      "plateau_ratio": 0.931,
+      "hard_accuracy": 0.0,
+      "final_skill": 0.6552,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Fast learner \u2014 can handle accelerated difficulty progression"
+    ]
+  },
+  "fast_4": {
+    "student_id": "fast_4",
+    "classification": "fast_learner",
+    "features": {
+      "accuracy": 0.78,
+      "skill_velocity": 0.00915,
+      "consistency": 0.81,
+      "plateau_detected": false,
+      "plateau_ratio": 0.73,
+      "hard_accuracy": 0.0,
+      "final_skill": 0.7092,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Fast learner \u2014 can handle accelerated difficulty progression"
+    ]
+  },
+  "fast_5": {
+    "student_id": "fast_5",
+    "classification": "fast_learner",
+    "features": {
+      "accuracy": 0.82,
+      "skill_velocity": 0.00935,
+      "consistency": 0.842,
+      "plateau_detected": false,
+      "plateau_ratio": 0.803,
+      "hard_accuracy": 0.0,
+      "final_skill": 0.7289,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Fast learner \u2014 can handle accelerated difficulty progression",
+      "High accuracy on easy content \u2014 increase challenge level"
+    ]
+  },
+  "fast_6": {
+    "student_id": "fast_6",
+    "classification": "fast_learner",
+    "features": {
+      "accuracy": 0.7,
+      "skill_velocity": 0.00797,
+      "consistency": 0.823,
+      "plateau_detected": false,
+      "plateau_ratio": 0.983,
+      "hard_accuracy": 0.0,
+      "final_skill": 0.6503,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Fast learner \u2014 can handle accelerated difficulty progression"
+    ]
+  },
+  "fast_7": {
+    "student_id": "fast_7",
+    "classification": "fast_learner",
+    "features": {
+      "accuracy": 0.84,
+      "skill_velocity": 0.00942,
+      "consistency": 0.818,
+      "plateau_detected": false,
+      "plateau_ratio": 0.775,
+      "hard_accuracy": 0.0,
+      "final_skill": 0.7322,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Fast learner \u2014 can handle accelerated difficulty progression",
+      "High accuracy on easy content \u2014 increase challenge level"
+    ]
+  },
+  "fast_8": {
+    "student_id": "fast_8",
+    "classification": "fast_learner",
+    "features": {
+      "accuracy": 0.72,
+      "skill_velocity": 0.00823,
+      "consistency": 0.801,
+      "plateau_detected": false,
+      "plateau_ratio": 0.935,
+      "hard_accuracy": 0.0,
+      "final_skill": 0.6727,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Fast learner \u2014 can handle accelerated difficulty progression"
+    ]
+  },
+  "fast_9": {
+    "student_id": "fast_9",
+    "classification": "fast_learner",
+    "features": {
+      "accuracy": 0.72,
+      "skill_velocity": 0.00909,
+      "consistency": 0.838,
+      "plateau_detected": false,
+      "plateau_ratio": 0.718,
+      "hard_accuracy": 0.5,
+      "final_skill": 0.7062,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Fast learner \u2014 can handle accelerated difficulty progression"
+    ]
+  },
+  "slow_0": {
+    "student_id": "slow_0",
+    "classification": "average",
+    "features": {
+      "accuracy": 0.66,
+      "skill_velocity": 0.00297,
+      "consistency": 0.778,
+      "plateau_detected": false,
+      "plateau_ratio": 0.937,
+      "hard_accuracy": 0.0,
+      "final_skill": 0.2994,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Student progressing normally \u2014 maintain current strategy"
+    ]
+  },
+  "slow_1": {
+    "student_id": "slow_1",
+    "classification": "average",
+    "features": {
+      "accuracy": 0.66,
+      "skill_velocity": 0.0029,
+      "consistency": 0.77,
+      "plateau_detected": false,
+      "plateau_ratio": 1.18,
+      "hard_accuracy": 0.0,
+      "final_skill": 0.2957,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Student progressing normally \u2014 maintain current strategy"
+    ]
+  },
+  "slow_2": {
+    "student_id": "slow_2",
+    "classification": "average",
+    "features": {
+      "accuracy": 0.56,
+      "skill_velocity": 0.00253,
+      "consistency": 0.737,
+      "plateau_detected": false,
+      "plateau_ratio": 0.962,
+      "hard_accuracy": 0.0,
+      "final_skill": 0.2804,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Student progressing normally \u2014 maintain current strategy"
+    ]
+  },
+  "slow_3": {
+    "student_id": "slow_3",
+    "classification": "average",
+    "features": {
+      "accuracy": 0.64,
+      "skill_velocity": 0.00296,
+      "consistency": 0.768,
+      "plateau_detected": false,
+      "plateau_ratio": 0.905,
+      "hard_accuracy": 0.0,
+      "final_skill": 0.2986,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Student progressing normally \u2014 maintain current strategy"
+    ]
+  },
+  "slow_4": {
+    "student_id": "slow_4",
+    "classification": "average",
+    "features": {
+      "accuracy": 0.66,
+      "skill_velocity": 0.00341,
+      "consistency": 0.815,
+      "plateau_detected": false,
+      "plateau_ratio": 1.282,
+      "hard_accuracy": 0.0,
+      "final_skill": 0.3212,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Student progressing normally \u2014 maintain current strategy"
+    ]
+  },
+  "slow_5": {
+    "student_id": "slow_5",
+    "classification": "average",
+    "features": {
+      "accuracy": 0.64,
+      "skill_velocity": 0.003,
+      "consistency": 0.822,
+      "plateau_detected": false,
+      "plateau_ratio": 1.095,
+      "hard_accuracy": 0.0,
+      "final_skill": 0.3005,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Student progressing normally \u2014 maintain current strategy"
+    ]
+  },
+  "slow_6": {
+    "student_id": "slow_6",
+    "classification": "average",
+    "features": {
+      "accuracy": 0.56,
+      "skill_velocity": 0.00286,
+      "consistency": 0.802,
+      "plateau_detected": false,
+      "plateau_ratio": 0.905,
+      "hard_accuracy": 0.0,
+      "final_skill": 0.2936,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Student progressing normally \u2014 maintain current strategy"
+    ]
+  },
+  "slow_7": {
+    "student_id": "slow_7",
+    "classification": "average",
+    "features": {
+      "accuracy": 0.62,
+      "skill_velocity": 0.00313,
+      "consistency": 0.824,
+      "plateau_detected": false,
+      "plateau_ratio": 1.309,
+      "hard_accuracy": 0.0,
+      "final_skill": 0.307,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Student progressing normally \u2014 maintain current strategy"
+    ]
+  },
+  "slow_8": {
+    "student_id": "slow_8",
+    "classification": "average",
+    "features": {
+      "accuracy": 0.62,
+      "skill_velocity": 0.00262,
+      "consistency": 0.802,
+      "plateau_detected": false,
+      "plateau_ratio": 0.975,
+      "hard_accuracy": 0.0,
+      "final_skill": 0.2847,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Student progressing normally \u2014 maintain current strategy"
+    ]
+  },
+  "slow_9": {
+    "student_id": "slow_9",
+    "classification": "average",
+    "features": {
+      "accuracy": 0.66,
+      "skill_velocity": 0.00334,
+      "consistency": 0.843,
+      "plateau_detected": false,
+      "plateau_ratio": 0.974,
+      "hard_accuracy": 0.0,
+      "final_skill": 0.3176,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Student progressing normally \u2014 maintain current strategy"
+    ]
+  },
+  "average_0": {
+    "student_id": "average_0",
+    "classification": "fast_learner",
+    "features": {
+      "accuracy": 0.64,
+      "skill_velocity": 0.00532,
+      "consistency": 0.824,
+      "plateau_detected": false,
+      "plateau_ratio": 0.925,
+      "hard_accuracy": 0.0,
+      "final_skill": 0.4673,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Fast learner \u2014 can handle accelerated difficulty progression"
+    ]
+  },
+  "average_1": {
+    "student_id": "average_1",
+    "classification": "fast_learner",
+    "features": {
+      "accuracy": 0.62,
+      "skill_velocity": 0.00489,
+      "consistency": 0.778,
+      "plateau_detected": false,
+      "plateau_ratio": 0.93,
+      "hard_accuracy": 0.0,
+      "final_skill": 0.4517,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Student progressing normally \u2014 maintain current strategy"
+    ]
+  },
+  "average_2": {
+    "student_id": "average_2",
+    "classification": "fast_learner",
+    "features": {
+      "accuracy": 0.66,
+      "skill_velocity": 0.00523,
+      "consistency": 0.799,
+      "plateau_detected": false,
+      "plateau_ratio": 0.921,
+      "hard_accuracy": 0.0,
+      "final_skill": 0.4628,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Fast learner \u2014 can handle accelerated difficulty progression"
+    ]
+  },
+  "average_3": {
+    "student_id": "average_3",
+    "classification": "fast_learner",
+    "features": {
+      "accuracy": 0.7,
+      "skill_velocity": 0.00544,
+      "consistency": 0.828,
+      "plateau_detected": false,
+      "plateau_ratio": 1.237,
+      "hard_accuracy": 0.0,
+      "final_skill": 0.4793,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Fast learner \u2014 can handle accelerated difficulty progression"
+    ]
+  },
+  "average_4": {
+    "student_id": "average_4",
+    "classification": "fast_learner",
+    "features": {
+      "accuracy": 0.7,
+      "skill_velocity": 0.00603,
+      "consistency": 0.779,
+      "plateau_detected": false,
+      "plateau_ratio": 0.676,
+      "hard_accuracy": 0.0,
+      "final_skill": 0.5088,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Fast learner \u2014 can handle accelerated difficulty progression"
+    ]
+  },
+  "average_5": {
+    "student_id": "average_5",
+    "classification": "fast_learner",
+    "features": {
+      "accuracy": 0.72,
+      "skill_velocity": 0.00563,
+      "consistency": 0.809,
+      "plateau_detected": false,
+      "plateau_ratio": 0.907,
+      "hard_accuracy": 0.0,
+      "final_skill": 0.4886,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Fast learner \u2014 can handle accelerated difficulty progression"
+    ]
+  },
+  "average_6": {
+    "student_id": "average_6",
+    "classification": "fast_learner",
+    "features": {
+      "accuracy": 0.68,
+      "skill_velocity": 0.00536,
+      "consistency": 0.831,
+      "plateau_detected": false,
+      "plateau_ratio": 0.886,
+      "hard_accuracy": 0.0,
+      "final_skill": 0.4753,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Fast learner \u2014 can handle accelerated difficulty progression"
+    ]
+  },
+  "average_7": {
+    "student_id": "average_7",
+    "classification": "fast_learner",
+    "features": {
+      "accuracy": 0.68,
+      "skill_velocity": 0.00606,
+      "consistency": 0.828,
+      "plateau_detected": false,
+      "plateau_ratio": 0.88,
+      "hard_accuracy": 0.0,
+      "final_skill": 0.5104,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Fast learner \u2014 can handle accelerated difficulty progression"
+    ]
+  },
+  "average_8": {
+    "student_id": "average_8",
+    "classification": "fast_learner",
+    "features": {
+      "accuracy": 0.7,
+      "skill_velocity": 0.00539,
+      "consistency": 0.782,
+      "plateau_detected": false,
+      "plateau_ratio": 1.126,
+      "hard_accuracy": 0.333,
+      "final_skill": 0.4765,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Fast learner \u2014 can handle accelerated difficulty progression"
+    ]
+  },
+  "average_9": {
+    "student_id": "average_9",
+    "classification": "fast_learner",
+    "features": {
+      "accuracy": 0.8,
+      "skill_velocity": 0.00659,
+      "consistency": 0.841,
+      "plateau_detected": false,
+      "plateau_ratio": 0.955,
+      "hard_accuracy": 0.0,
+      "final_skill": 0.5369,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Fast learner \u2014 can handle accelerated difficulty progression"
+    ]
+  },
+  "inconsistent_0": {
+    "student_id": "inconsistent_0",
+    "classification": "fast_learner",
+    "features": {
+      "accuracy": 0.7,
+      "skill_velocity": 0.00532,
+      "consistency": 0.791,
+      "plateau_detected": false,
+      "plateau_ratio": 0.914,
+      "hard_accuracy": 0.0,
+      "final_skill": 0.5169,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Fast learner \u2014 can handle accelerated difficulty progression"
+    ]
+  },
+  "inconsistent_1": {
+    "student_id": "inconsistent_1",
+    "classification": "fast_learner",
+    "features": {
+      "accuracy": 0.68,
+      "skill_velocity": 0.00528,
+      "consistency": 0.76,
+      "plateau_detected": false,
+      "plateau_ratio": 1.003,
+      "hard_accuracy": 0.0,
+      "final_skill": 0.521,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Fast learner \u2014 can handle accelerated difficulty progression"
+    ]
+  },
+  "inconsistent_2": {
+    "student_id": "inconsistent_2",
+    "classification": "fast_learner",
+    "features": {
+      "accuracy": 0.7,
+      "skill_velocity": 0.00536,
+      "consistency": 0.809,
+      "plateau_detected": false,
+      "plateau_ratio": 0.99,
+      "hard_accuracy": 0.0,
+      "final_skill": 0.5246,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Fast learner \u2014 can handle accelerated difficulty progression"
+    ]
+  },
+  "inconsistent_3": {
+    "student_id": "inconsistent_3",
+    "classification": "fast_learner",
+    "features": {
+      "accuracy": 0.72,
+      "skill_velocity": 0.00528,
+      "consistency": 0.804,
+      "plateau_detected": false,
+      "plateau_ratio": 0.87,
+      "hard_accuracy": 0.0,
+      "final_skill": 0.5206,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Fast learner \u2014 can handle accelerated difficulty progression"
+    ]
+  },
+  "inconsistent_4": {
+    "student_id": "inconsistent_4",
+    "classification": "fast_learner",
+    "features": {
+      "accuracy": 0.72,
+      "skill_velocity": 0.00572,
+      "consistency": 0.876,
+      "plateau_detected": false,
+      "plateau_ratio": 0.9,
+      "hard_accuracy": 0.333,
+      "final_skill": 0.543,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Fast learner \u2014 can handle accelerated difficulty progression"
+    ]
+  },
+  "inconsistent_5": {
+    "student_id": "inconsistent_5",
+    "classification": "fast_learner",
+    "features": {
+      "accuracy": 0.7,
+      "skill_velocity": 0.00575,
+      "consistency": 0.802,
+      "plateau_detected": false,
+      "plateau_ratio": 1.012,
+      "hard_accuracy": 0.0,
+      "final_skill": 0.5444,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Fast learner \u2014 can handle accelerated difficulty progression"
+    ]
+  },
+  "inconsistent_6": {
+    "student_id": "inconsistent_6",
+    "classification": "fast_learner",
+    "features": {
+      "accuracy": 0.64,
+      "skill_velocity": 0.00483,
+      "consistency": 0.76,
+      "plateau_detected": false,
+      "plateau_ratio": 0.933,
+      "hard_accuracy": 0.0,
+      "final_skill": 0.4926,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Student progressing normally \u2014 maintain current strategy"
+    ]
+  },
+  "inconsistent_7": {
+    "student_id": "inconsistent_7",
+    "classification": "fast_learner",
+    "features": {
+      "accuracy": 0.74,
+      "skill_velocity": 0.00509,
+      "consistency": 0.809,
+      "plateau_detected": false,
+      "plateau_ratio": 1.144,
+      "hard_accuracy": 0.0,
+      "final_skill": 0.5114,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Fast learner \u2014 can handle accelerated difficulty progression"
+    ]
+  },
+  "inconsistent_8": {
+    "student_id": "inconsistent_8",
+    "classification": "fast_learner",
+    "features": {
+      "accuracy": 0.64,
+      "skill_velocity": 0.00461,
+      "consistency": 0.815,
+      "plateau_detected": false,
+      "plateau_ratio": 0.879,
+      "hard_accuracy": 0.0,
+      "final_skill": 0.4871,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Student progressing normally \u2014 maintain current strategy"
+    ]
+  },
+  "inconsistent_9": {
+    "student_id": "inconsistent_9",
+    "classification": "fast_learner",
+    "features": {
+      "accuracy": 0.72,
+      "skill_velocity": 0.00587,
+      "consistency": 0.876,
+      "plateau_detected": false,
+      "plateau_ratio": 1.035,
+      "hard_accuracy": 0.0,
+      "final_skill": 0.5502,
+      "total_interactions": 50
+    },
+    "recommendations": [
+      "Fast learner \u2014 can handle accelerated difficulty progression"
+    ]
+  }
+}

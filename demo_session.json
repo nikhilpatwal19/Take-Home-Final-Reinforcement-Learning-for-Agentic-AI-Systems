@@ -1,0 +1,141 @@
+{
+  "summary": {
+    "session_id": "demo_001",
+    "total_questions": 10,
+    "final_skill": 0.2643,
+    "accuracy": 0.7,
+    "total_reward": 7.2332,
+    "milestones": [],
+    "agent_type": "Q-Learning+UCB",
+    "feedback_bandit_prefs": {
+      "(2, 2)": {
+        "best_strategy": "encouraging",
+        "means": {
+          "encouraging": 0.75,
+          "instructive": 0.5,
+          "challenging": 0.75
+        },
+        "total_trials": 6
+      },
+      "(1, 0)": {
+        "best_strategy": "encouraging",
+        "means": {
+          "encouraging": 0.667,
+          "instructive": 0.5,
+          "challenging": 0.5
+        },
+        "total_trials": 1
+      },
+      "(1, 2)": {
+        "best_strategy": "encouraging",
+        "means": {
+          "encouraging": 0.5,
+          "instructive": 0.5,
+          "challenging": 0.333
+        },
+        "total_trials": 1
+      },
+      "(2, 0)": {
+        "best_strategy": "encouraging",
+        "means": {
+          "encouraging": 0.5,
+          "instructive": 0.333,
+          "challenging": 0.5
+        },
+        "total_trials": 1
+      }
+    }
+  },
+  "steps": [
+    {
+      "step": 0,
+      "difficulty_presented": 0,
+      "student_correct": true,
+      "student_skill": 0.2072,
+      "reward": 1.072,
+      "feedback_message": "Great job! You're making real progress!",
+      "feedback_strategy": "encouraging"
+    },
+    {
+      "step": 1,
+      "difficulty_presented": 0,
+      "student_correct": true,
+      "student_skill": 0.2084,
+      "reward": -0.5,
+      "feedback_message": "Great job! You're making real progress!",
+      "feedback_strategy": "encouraging"
+    },
+    {
+      "step": 2,
+      "difficulty_presented": 0,
+      "student_correct": true,
+      "student_skill": 0.2155,
+      "reward": 1.0712,
+      "feedback_message": "Nailed it! Ready for something harder?",
+      "feedback_strategy": "challenging"
+    },
+    {
+      "step": 3,
+      "difficulty_presented": 0,
+      "student_correct": false,
+      "student_skill": 0.2226,
+      "reward": 1.0706,
+      "feedback_message": "Tough one! Let's step back and build up to it.",
+      "feedback_strategy": "challenging"
+    },
+    {
+      "step": 4,
+      "difficulty_presented": 0,
+      "student_correct": true,
+      "student_skill": 0.2296,
+      "reward": 1.07,
+      "feedback_message": "Correct! Notice how this connects to what you learned before.",
+      "feedback_strategy": "instructive"
+    },
+    {
+      "step": 5,
+      "difficulty_presented": 1,
+      "student_correct": true,
+      "student_skill": 0.2405,
+      "reward": 1.4848,
+      "feedback_message": "Nailed it! Ready for something harder?",
+      "feedback_strategy": "challenging"
+    },
+    {
+      "step": 6,
+      "difficulty_presented": 2,
+      "student_correct": true,
+      "student_skill": 0.2417,
+      "reward": -0.5,
+      "feedback_message": "Correct! Notice how this connects to what you learned before.",
+      "feedback_strategy": "instructive"
+    },
+    {
+      "step": 7,
+      "difficulty_presented": 1,
+      "student_correct": false,
+      "student_skill": 0.2525,
+      "reward": 1.4831,
+      "feedback_message": "Not quite. Here's a hint: focus on the key concept first.",
+      "feedback_strategy": "instructive"
+    },
+    {
+      "step": 8,
+      "difficulty_presented": 1,
+      "student_correct": false,
+      "student_skill": 0.2631,
+      "reward": 1.4815,
+      "feedback_message": "Don't worry \u2014 mistakes are how we learn. Let's try again.",
+      "feedback_strategy": "encouraging"
+    },
+    {
+      "step": 9,
+      "difficulty_presented": 2,
+      "student_correct": true,
+      "student_skill": 0.2643,
+      "reward": -0.5,
+      "feedback_message": "Nailed it! Ready for something harder?",
+      "feedback_strategy": "challenging"
+    }
+  ]
+}
